@@ -1,16 +1,26 @@
-### Hi there 👋
+# About Me
+My name is Braden Pennie and I'm a Junior Computer Science student and former TA at Wright State University
 
-<!--
-**BPennie03/BPennie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+* [PhasmoBot](https://github.com/BPennie03/PhasmoBot) - A Phasmophobia bot for discord using discord.py
+* [Soundboard](https://github.com/BPennie03/SoundBoard) - A basic soundboard created using Java Swing
+* [Hackathon](https://github.com/BPennie03/MakeItWrightHackathon2023) - Repository and submission for MakeITWright Hackathon 2023
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jetbrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://csis.pace.edu/~scharff/pacemobilelab/images/github.jpg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<br />
+
+## Contact
+* [Discord](https://discordapp.com/users/314885041685790721)
+* [Email](mailto:bradenpennie21@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/braden-pennie-015031262/)
+
+## Github Stats
+<img align="left" alt="BPennie03's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BPennie03&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
