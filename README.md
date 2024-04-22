@@ -11,16 +11,16 @@ Hello! My name is Braden Pennie and I'm a Senior Computer Science student and a 
 <br />
 
 ## Highlighted Projects/Contributions
-* ### [CSE-Discord-Bot](https://github.com/wrightedu/CSE-Discord-Bot) - A Discord bot built using discord.py to add features and help manage the Wright State University CSE-EE department Discord server.
-  * Python, Discord.py, pandas
-* ### [Swing-Wordle](https://github.com/BPennie03/Swing-Wordle) - A Java Swing implementation of the popular New York Times game: Wordle
-  * Java, Swing
-* ### [PhasmoBot](https://github.com/BPennie03/PhasmoBot) - A Phasmophobia bot for discord using discord.py
-  * Python, Discord.py, Fandom.py
-* ### [Soundboard](https://github.com/BPennie03/SoundBoard) - A basic soundboard created using Java Swing
-  * Java, Swing
-* ### [Hackathon](https://github.com/BPennie03/MakeItWrightHackathon2023) - Repository and submission for MakeITWright Hackathon 2023
-  * Java, Swing, Python, EPCIS Workbench, BarTender
+* ### [CSE-Discord-Bot](https://github.com/wrightedu/CSE-Discord-Bot) - Python, Discord.py, pandas
+  * A Discord bot built using discord.py to add features and help manage the Wright State University CSE-EE department Discord server.
+* ### [Swing-Wordle](https://github.com/BPennie03/Swing-Wordle) - Java, Swing
+  * A Java Swing implementation of the popular New York Times game: Wordle
+* ### [PhasmoBot](https://github.com/BPennie03/PhasmoBot) - Python, Discord.py, Fandom.py
+  * A Phasmophobia bot for discord using discord.py
+* ### [Soundboard](https://github.com/BPennie03/SoundBoard) - Java, Swing
+  * A basic soundboard created using Java Swing
+* ### [Hackathon](https://github.com/BPennie03/MakeItWrightHackathon2023) - Java, Swing, Python, EPCIS Workbench, BarTender
+  * Repository and submission for MakeITWright Hackathon 2023
  
 ## GitHub Stats
 [![](https://raw.githubusercontent.com/BPennie03/BPennie03/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
