@@ -1,5 +1,5 @@
 # About Me
-Hello! My name is Braden Pennie and I'm a Senior Computer Science student and a Software Engineer Intern at Northrop Grumman. This is a place to store any school related or personal projects I've been working on.
+Hello! My name is Braden Pennie and I'm an Associate Software Engineer at Northrop Grumman. This is a place to store any past school related or personal projects I've worked on.
 
 ## Contact
 [Discord](https://discordapp.com/users/314885041685790721) | [Email](mailto:bradenpennie21@gmail.com) | [LinkedIn](https://www.linkedin.com/in/braden-pennie-015031262/)
